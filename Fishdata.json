@@ -8,7 +8,8 @@
       "Fishcolor": "Dark greenish-gray back, lighter-colored belly, and horizontal stripe along their sides.",
       "Fishfood": "Fish, crayfish, frogs, and even small mammals and birds.",
       "Fishimage": "https://raw.githubusercontent.com/StevenDo369/JSONProjectsIT315/main/largemouthbass.jpg",
-      "Fishbait": "Plastic worms, crankbaits, and topwater lures."
+      "Fishbait": "Plastic worms, crankbaits, and topwater lures.",
+      "Website": "https://dwr.virginia.gov/wildlife/fish/largemouth-bass/#:~:text=Native%20to%20southeastern%20Virginia%2C%20but,%C2%B0%20to%2078%C2%B0%20F."
     },
     {
       "FishName": "Walleye",
@@ -18,7 +19,8 @@
       "Fishcolor": "Olive-green or brown in color on their backs, with golden sides and a white belly.",
       "Fishfood": "Fish, crayfish, worms, and insects.",
       "Fishimage": "https://raw.githubusercontent.com/StevenDo369/JSONProjectsIT315/main/walleye.jpg",
-      "Fishbait": "Live bait, jigs, and crankbaits."
+      "Fishbait": "Live bait, jigs, and crankbaits.",
+      "Website": "https://dwr.virginia.gov/wildlife/fish/walleye/"
     },
 
     {
@@ -29,7 +31,8 @@
       "Fishcolor": "Brown or olive-colored body with a white or cream-colored underside.",
       "Fishfood": "Insects, small fish, crustaceans, and even small mammals like mice or baby ducks.",
       "Fishimage": "https://raw.githubusercontent.com/StevenDo369/JSONProjectsIT315/main/catfish.jpg",
-      "Fishbait": "Worms, stink baits, chicken liver, cut bait, dough balls"
+      "Fishbait": "Worms, stink baits, chicken liver, cut bait, dough balls",
+      "Website": "https://dwr.virginia.gov/blog/fishing-for-catfish/"
     },
 
     {
@@ -40,7 +43,8 @@
       "Fishcolor": "Olive-green to brownish-green color on their backs, with a lighter, silvery color on their sides and belly.",
       "Fishfood": "Insects, such as mayflies, caddisflies, and stoneflies, as well as other small aquatic invertebrates like crustaceans, mollusks, and worms.",
       "Fishimage": "https://raw.githubusercontent.com/StevenDo369/JSONProjectsIT315/main/trout.jpg",
-      "Fishbait": "Worms, crickets, and minnows are popular live baits for trout fishing, flies, powerbait, corn, and cheese."
+      "Fishbait": "Worms, crickets, and minnows are popular live baits for trout fishing, flies, powerbait, corn, and cheese.",
+      "Website": "https://dwr.virginia.gov/fishing/trout/"
     },
 
     {
@@ -51,7 +55,8 @@
       "Fishcolor": "Silver or greenish color on their sides with a white belly. They also have black spots on their sides and fins.",
       "Fishfood": "Insects, crustaceans, and small fish.",
       "Fishimage": "https://raw.githubusercontent.com/StevenDo369/JSONProjectsIT315/main/crappie.jpg",
-      "Fishbait": "Minnows, worms, and small crayfish."
+      "Fishbait": "Minnows, worms, and small crayfish.",
+      "Website": "https://www.bestfishinginamerica.com/virginia-crappie-fishing.html"
     },
 
 
@@ -63,7 +68,8 @@
       "Fishcolor": "Yellow perch have a yellow-green body with distinct vertical black stripes, while white perch have a silvery body with dark horizontal stripes.",
       "Fishfood": "Small fishes, insects, and crustaceans.",
       "Fishimage": "https://raw.githubusercontent.com/StevenDo369/JSONProjectsIT315/main/perch.png",
-      "Fishbait": "Live minnows, worms, small jigs, and spinners."
+      "Fishbait": "Live minnows, worms, small jigs, and spinners.",
+      "Website": "https://dwr.virginia.gov/wildlife/fish/yellow-perch/#:~:text=Member%20of%20the%20perch%20family,have%20a%20distinctive%20dusky%20blotch."
     }
   ]
 
