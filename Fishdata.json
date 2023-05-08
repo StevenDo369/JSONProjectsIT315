@@ -1,0 +1,67 @@
+[
+  {
+    "FishName": "Largemouth Bass",
+    "FishAbout": "Largemouth bass are a popular game fish in Virginia and can be found in most of the state’s larger lakes and rivers.",
+    "Fishsize": "Medium",
+    "Fishlocation": "Lake Anna, Smith Mountain Lake, Chickahominy River, Occoquan Reservoir.",
+    "Fishcolor": "Dark greenish-gray back, lighter-colored belly, and horizontal stripe along their sides.",
+    "Fishfood": "Fish, crayfish, frogs, and even small mammals and birds.",
+    "Fishimage": "largemouthbass.jpg",
+    "Fishbait": "Plastic worms, crankbaits, and topwater lures."
+  },
+  {
+    "FishName": "Walleye",
+    "FishAbout": "Walleye are a popular species in Virginia, although they are more commonly found in the western part of the state.",
+    "Fishsize": "Medium",
+    "Fishlocation": "Claytor Lake, Lake Anna, Smith Mountain Lake and New River",
+    "Fishcolor": "Olive-green or brown in color on their backs, with golden sides and a white belly.",
+    "Fishfood": "Fish, crayfish, worms, and insects.",
+    "Fishimage": "walleye.jpg",
+    "Fishbait": "Live bait, jigs, and crankbaits."
+  },
+
+  {
+    "FishName": "Catfish",
+    "FishAbout": "Catfish are a popular choice for anglers in Virginia, especially in the summer.",
+    "Fishsize": "Large",
+    "Fishlocation": "James River, Rappahannock River, Potomac River, Lake Anna, and Smith Mountain Lake.",
+    "Fishcolor": "Brown or olive-colored body with a white or cream-colored underside.",
+    "Fishfood": "Insects, small fish, crustaceans, and even small mammals like mice or baby ducks.",
+    "Fishimage": "catfish.jpg",
+    "Fishbait": "Worms, stink baits, chicken liver, cut bait, dough balls"
+  },
+
+  {
+    "FishName": "Trout",
+    "FishAbout": "Trout are a popular species in the mountainous regions of Virginia and are often found in cold, clear streams.",
+    "Fishsize": "Medium",
+    "Fishlocation": "Some of the top locations for trout fishing in Virginia include the Jackson River, South Holston River, Mossy Creek, and Smith River.",
+    "Fishcolor": "Olive-green to brownish-green color on their backs, with a lighter, silvery color on their sides and belly.",
+    "Fishfood": "Insects, such as mayflies, caddisflies, and stoneflies, as well as other small aquatic invertebrates like crustaceans, mollusks, and worms.",
+    "Fishimage": "trout.jpg",
+    "Fishbait": "Worms, crickets, and minnows are popular live baits for trout fishing, flies, powerbait, corn, and cheese.",
+  },
+
+  {
+    "FishName": "Crappie",
+    "FishAbout": "Crappie can be found in many of Virginia’s lakes and rivers.",
+    "Fishsize": "Small",
+    "Fishlocation": "Lake Anna, Smith Mountain Lake, and the James River.",
+    "Fishcolor": "Silver or greenish color on their sides with a white belly. They also have black spots on their sides and fins.",
+    "Fishfood": "Insects, crustaceans, and small fish.",
+    "Fishimage": "crappie.jpg",
+    "Fishbait": "Minnows, worms, and small crayfish."
+  },
+
+
+  {
+    "FishName": "Perch",
+    "FishAbout": "Perch are a popular species in Virginia and can be found in most of the state’s larger lakes and rivers.",
+    "Fishsize": "Medium",
+    "Fishlocation": "Lake Anna, Smith Mountain Lake, James River, and Chesapeake Bay",
+    "Fishcolor": "Yellow perch have a yellow-green body with distinct vertical black stripes, while white perch have a silvery body with dark horizontal stripes.",
+    "Fishfood": "Small fishes, insects, and crustaceans.",
+    "Fishimage": "perch.png",
+    "Fishbait": "Live minnows, worms, small jigs, and spinners."
+  }
+]
